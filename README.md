@@ -1,2 +1,2 @@
-# DrishtiRound1
-TicTacToe Matrix checker JS code.
+# TicTacToe
+TicTacToe Matrix checker JS code, written in vanilla javascript.
